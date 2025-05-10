@@ -1,0 +1,5 @@
+composite_analysis/figures/k06_composites/
+composite_analysis/*.nc
+data/geopotential
+data/jet_stream/
+data/geopotential/
