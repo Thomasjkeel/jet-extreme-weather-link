@@ -4,8 +4,13 @@
 composite_analysis/figures/k06_composites/
 composite_analysis/*.nc
 data/geopotential
+
 data/jet_stream/
-!data/jet_stream/jet-latitude-era5-standard-region-runs/*.csv
+!data/jet_stream/jet-speed-era5-standard-region-runs/
 !data/jet_stream/jet-speed-era5-standard-region-runs/*.csv
-!data/geopotential/DOWNLOAD_ZG_ERA5
+
+!data/jet_stream/jet-latitude-era5-standard-region-runs/
+!data/jet_stream/jet-latitude-era5-standard-region-runs/*.csv
+
 data/geopotential/
+!data/geopotential/DOWNLOAD_ZG_ERA5
