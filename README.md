@@ -4,7 +4,7 @@ These are the notebooks needed to create the figures for "Representing the telec
 
 Data used is from ERA5 hourly data openly available from: https://doi.org/10.24381/cds.bd0915c6
 
-## Content
+## Contents
 
 **composite_analysis** - Figures 2-5, composite analysis, and all supplementary figures relating to producing composite
 **data** - Location for jet stream, geopotential and climate indices data
