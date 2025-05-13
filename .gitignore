@@ -1,3 +1,6 @@
+.ipynb_checkpoints
+.vscode/
+
 composite_analysis/figures/k06_composites/
 composite_analysis/*.nc
 data/geopotential
