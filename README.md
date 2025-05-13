@@ -1,4 +1,4 @@
-## Jet Extreme weather linkage
+# Teleconnection between jet streams and extreme cold air outbreaks
 
 These are the notebooks needed to create the figures for "Representing the teleconnection between the jet stream and extreme cold air outbreaks over North America." (under review)
 
