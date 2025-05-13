@@ -4,6 +4,8 @@
 composite_analysis/figures/k06_composites/
 composite_analysis/*.nc
 composite_analysis/compare_other_jet_algorithms.ipynb
+composite_analysis/figures/compare_jet_cores*
+
 data/jet_stream/*
 
 !data/jet_stream/jet-speed-era5-standard-region-runs/
