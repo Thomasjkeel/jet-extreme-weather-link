@@ -1,5 +1,9 @@
 # Teleconnection between jet streams and extreme cold air outbreaks
 
+
+[![DOI](https://zenodo.org/badge/981297860.svg)](https://doi.org/10.5281/zenodo.15394949)
+
+
 These are the notebooks needed to create the figures for "Representing the teleconnection between the jet stream and extreme cold air outbreaks over North America." (under review)
 
 Data used is from ERA5 hourly data openly available from: https://doi.org/10.24381/cds.bd0915c6
