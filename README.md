@@ -6,6 +6,6 @@ Data used is from ERA5 hourly data openly available from: https://doi.org/10.243
 
 ## Contents
 
-**composite_analysis** - Figures 2-5, composite analysis, and all supplementary figures relating to producing composite.
-**data** - Location for jet stream, geopotential and climate indices data.
-**input_preparation** - Figure 1, extreme cold air outbreak method, and all supplementary figures relating to preparing outbreaks.
+- **composite_analysis** - Figures 2-5, composite analysis, and all supplementary figures relating to producing composite.
+- **data** - Location for jet stream, geopotential and climate indices data.
+- **input_preparation** - Figure 1, extreme cold air outbreak method, and all supplementary figures relating to preparing outbreaks.
